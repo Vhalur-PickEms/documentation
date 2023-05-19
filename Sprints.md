@@ -15,6 +15,7 @@ Overall a good first sprint.
 Keep up the 1 hour a day at least. If I'm working well and have a nice flow going, extending time is fine. 
 Start my first research and create a minimal API. 
 
+
 # Sprint 2 // 11/05/23 - 24/05/23 
 ### Feedup
 - Catch up portfolio
