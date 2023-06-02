@@ -16,7 +16,7 @@ Keep up the 1 hour a day at least. If I'm working well and have a nice flow goin
 Start my first research and create a minimal API. 
 
 
-# Sprint 2 // 11/05/23 - 24/05/23 
+# Sprint 2 // 11/05/23 - 02/06/23 
 ### Feedup
 - Catch up portfolio
 - Create a Minimal API with at least a post function
@@ -26,6 +26,16 @@ Start my first research and create a minimal API.
 - Start first research
 
 ### Feedback
+A lot of good progress was made during sprint 2. All of the set goals have been accomplished. Due to sickness the sprint length was increased by a week and a half. During the extra week and a half I have spend my time starting with CI/CD. I was able to set-up the first step of CI/CD having a small test before merging branches. I've also been able to manually create an image of my MinimalAPI that runs in a container. 
+I did notice I became a bit more lax when it came to the 1 hour per day. 
 
+### Feedforward
+'2 steps forward, 1 step back' is what I keep in my head when working. As mentioned I became a bit more lax, so I'm going to step up and icnrease how strict I will be on this. 1 Hour EACH day minimum, even on the long days. 
+As for the project, my main goals will be increasing the CI/CD production with techniques such as static code analysis and automatically creating a docker container when merging branches. 
+
+# Sprint 3 // 02/05/23 - 02/06/23 
+### Feedup
+
+### Feedback
 
 ### Feedforward
